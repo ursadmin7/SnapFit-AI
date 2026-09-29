@@ -1,0 +1,20 @@
+[
+    {
+        "workout_name": "Beginner Full Body",
+        "date": "2026-09-22T21:50:03",
+        "duration_seconds": 7.2,
+        "squats": 10,
+        "pushups": 8,
+        "plank_seconds": 30,
+        "calories": 0.6
+    },
+    {
+        "workout_name": "Beginner Full Body",
+        "date": "2026-09-22T21:53:40",
+        "duration_seconds": 30.47,
+        "squats": 10,
+        "pushups": 8,
+        "plank_seconds": 30,
+        "calories": 2.5
+    }
+]
